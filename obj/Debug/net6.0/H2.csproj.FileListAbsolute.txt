@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\bin\Debug\net6.0\H2.exe
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\bin\Debug\net6.0\H2.deps.json
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\bin\Debug\net6.0\H2.runtimeconfig.json
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\bin\Debug\net6.0\H2.dll
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\bin\Debug\net6.0\H2.pdb
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.dll
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\refint\H2.dll
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.pdb
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\H2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\програмирование С #\Home_work_2\H2\obj\Debug\net6.0\ref\H2.dll
