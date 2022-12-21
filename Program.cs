@@ -17,6 +17,6 @@ else
     {
     while(num >= 10)
     num = num -10;
+    Console.WriteLine($"Третья цифра {num}");
     }
 }
-Console.WriteLine($"Третья цифра {num}");
